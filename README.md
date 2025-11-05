@@ -31,18 +31,7 @@ This system monitors vital signs from up to 3 patients simultaneously using wire
 - 🎨 **Dark Theme** - Easy on the eyes
 - 📑 **3-Tab Layout** - Setup, Overview, Graphs
 - 🎯 **Touch-Friendly** - Large buttons and text
-
-## 📁 Project Files
-
-```
-Desktop/205/
-├── gui.py                 # Main application (all-in-one)
-├── README.md             # This file
-├── DOCUMENTATION.md      # Complete technical documentation
-├── FLOWCHART.md          # System flowcharts and diagrams
-└── QUICK_REFERENCE.md    # Health metrics formulas quick guide
-```
-
+- 
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -428,7 +417,4 @@ Educational / Prototype Project
 **Hardware:** Raspberry Pi 4 + 7" Touchscreen + ESP32 + MAX30102  
 **Software:** Python 3 + PyBluez + NumPy + Matplotlib  
 
----
-
-*Last Updated: 2025*
 
