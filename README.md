@@ -55,6 +55,8 @@ pip3 install pybluez numpy matplotlib
    - Enable Bluetooth
    - Pair with ESP32 devices (note MAC addresses)
 
+![Wiring Diagram for ESP32](ESP32_MAX3020_pulse_O2_monitor.png "Wiring Diagram for ESP32")
+
 ### Running the Application
 
 ```bash
