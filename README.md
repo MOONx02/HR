@@ -402,21 +402,11 @@ self.max_plot_points = 60  # default: 60 seconds
 - [ ] Motion artifact detection
 - [ ] Respiration rate extraction from PPG signal
 
-## 📞 Support
 
 For questions or issues:
 1. Check [DOCUMENTATION.md](DOCUMENTATION.md) for detailed explanations
 2. Review [QUICK_REFERENCE.md](QUICK_REFERENCE.md) for troubleshooting
 3. Examine [FLOWCHART.md](FLOWCHART.md) for system architecture
 
-## 📜 License
-
-Educational / Prototype Project
-
----
-
-**Developed for Multi-ESP32 Heart Rate Monitoring System Assignment**  
-**Hardware:** Raspberry Pi 4 + 7" Touchscreen + ESP32 + MAX30102  
-**Software:** Python 3 + PyBluez + NumPy + Matplotlib  
 
 
